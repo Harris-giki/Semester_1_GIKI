@@ -10,6 +10,7 @@ The repository is organized into different subjects and topics covered during th
 
 **Mathematics - MT 101**
   - Calculus I
+
 **Computer Science - CS 101**
   - Introduction to Programming (C++)
 
@@ -31,7 +32,3 @@ Contributions are highly welcome! If you have additional notes, corrections, or 
 
 If you have any questions or need further assistance, feel free to reach out to me at my email:
 harris.giki@gmail.com
-
----
-
-Feel free to adjust this template to fit your specific content and needs!
