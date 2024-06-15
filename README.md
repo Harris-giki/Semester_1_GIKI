@@ -1,6 +1,6 @@
 # Semester One Notes and Resources:
 
-Welcome to the Semester One Notes repository! This repository is dedicated to providing comprehensive notes and resources for students embarking on their first semester. These materials aim to help juniors navigate their academic journey with ease and confidence.
+Welcome to the Semester One Notes repository! This repository is dedicated to providing comprehensive notes and resources for students embarking on their first semester in Ghulam Ishaq Khan Institute, Topi, Swabi-KPK Pakistan. These materials aim to help juniors navigate their academic journey with ease and confidence.
 
 Note: This repository tends to address only the courses/subjects that have a higher difficulty level.
 
