@@ -18,6 +18,7 @@ Instructions:
 This course isn't a tough call if your someone whose put good efforts in their college mathematics, especially for the Fedaral Board(FBISE) students the contents are quite similar to what they would had already studied. It is a 3 credit hour course meaning it can highly affect your grade, therefore give daily practice to everything you study in class. Get verified and trustworthy solutions to your course-book "Calculus: Early Transcendentals by James Stewart" problems from Quizlet, an online web application with solutions to various textbook problems.
 
 
+
 **Computer Science - CS 101**
   - Computing and Artificial Intelligence (3 Credit Hour)
 
@@ -29,13 +30,14 @@ Enhance your problem solving skills by learning how to code on either youtube fr
 
 
 **Applied Chemistry and Environment - CH 101**
--Applied Chemistry and Environment (2 Credit Hour)
+  -Applied Chemistry and Environment (2 Credit Hour)
 
 Instructions: 
 
 The *pre-mid* contents of this course could be really tricky, however it can be dealt easily if one puts in the efforts to understand the numerical problems being discussed in class and the lecture slides. Always practice those numerical problems, find related ones from the suggested course books. Another important aspect to keep in mind is that a numerical problem can be redesigned by reverse engineering, meaning your answer and the question statement can interchanges, therefore give good attention toward how one question is being solved. Furthermore, short questions are also expected from slides and mostly important ones are announced by the lecturer in the class, therefore it is advisable to be attentive during the lecture.
 
 The *post-mid* content is not relatively tricky as it is mostly based on theory and learning. It is advisable to learn as much content as you can, as mostly theoretical questions are expected. However any numerical/mathematical problem should also be subjected to great importance for final preparation
+
 
 
 ## How to Use
