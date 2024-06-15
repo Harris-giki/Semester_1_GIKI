@@ -1,59 +1,48 @@
-# Semester One Notes and Resources:
+# Semester One Notes and Resources
 
-Welcome to the Semester One Notes repository! This repository is dedicated to providing comprehensive notes and resources for students embarking on their first semester in Ghulam Ishaq Khan Institute, Topi, Swabi-KPK Pakistan. These materials aim to help juniors navigate their academic journey with ease and confidence.
+Welcome to the Semester One Notes repository! This repository provides comprehensive notes and resources for students at Ghulam Ishaq Khan Institute, Topi, Swabi-KPK Pakistan. These materials aim to help juniors navigate their academic journey with ease and confidence.
 
-Note: This repository tends to address only the courses/subjects that have a higher difficulty level.
+Note: This repository addresses only courses with a higher difficulty level.
 
 ## Repository Structure
 
-The repository is organized into different subjects and topics covered during the first semester. Each subject contains detailed notes, example problems, and additional resources.
+The repository is organized by subjects and topics covered during the first semester. Each subject contains detailed notes, example problems, and additional resources.
 
 ### Courses/Subjects
 
 **Mathematics - MT 101**
-  - Calculus I (3 Credit Hour)
+  - **Calculus I (3 Credit Hours)**
 
 Instructions: 
 
-This course isn't a tough call if your someone whose put good efforts in their college mathematics, especially for the Fedaral Board(FBISE) students the contents are quite similar to what they would had already studied. It is a 3 credit hour course meaning it can highly affect your grade, therefore give daily practice to everything you study in class. Get verified and trustworthy solutions to your course-book "Calculus: Early Transcendentals by James Stewart" problems from Quizlet, an online web application with solutions to various textbook problems.
-
-
-
+This course should be manageable if you've put in good efforts in college mathematics, especially for Federal Board (FBISE) students, as the content is similar. Since it's a 3 credit hour course, it can significantly affect your grade. Practice daily and use verified solutions for "Calculus: Early Transcendentals" by James Stewart available on Quizlet.
 
 **Computer Science - CS 101**
-  - Computing and Artificial Intelligence (3 Credit Hour)
+  - **Computing and Artificial Intelligence (3 Credit Hours)**
 
 Instructions: 
 
-If your someone who hasn't learned to program in their college, then you would really need to put the time and efforts to achieve a good grade in this 2 credit hour course(1 Credit hour for CS101-LAB). This course is the basis of your CS journey as it introduces you to the programming in C++ language.
-Enhance your problem solving skills by learning how to code on either youtube from the famous channel of Shradha Khapra named "Apna College", or you can also learn to code in C language from David Malan in his famous CS50x course offered for free by Harvard University. Although it would be C programming language; David Malan's course would be really benefitial in developing your problem solving skills.
-
-
-
+If you haven't learned to program in college, you'll need to invest time and effort in this 2 credit hour course (plus 1 credit hour for the lab). This course introduces programming in C++. Enhance your problem-solving skills by learning to code from YouTube's "Apna College" by Shradha Khapra or Harvard University's CS50x course by David Malan, which, although in C, is excellent for developing problem-solving skills.
 
 **Applied Chemistry and Environment - CH 101**
-  -Applied Chemistry and Environment (2 Credit Hour)
+  - **Applied Chemistry and Environment (2 Credit Hours)**
 
 Instructions: 
 
-The *pre-mid* contents of this course could be really tricky, however it can be dealt easily if one puts in the efforts to understand the numerical problems being discussed in class and the lecture slides. Always practice those numerical problems, find related ones from the suggested course books. Another important aspect to keep in mind is that a numerical problem can be redesigned by reverse engineering, meaning your answer and the question statement can interchanges, therefore give good attention toward how one question is being solved. Furthermore, short questions are also expected from slides and mostly important ones are announced by the lecturer in the class, therefore it is advisable to be attentive during the lecture.
+*Pre-mid:* The content can be tricky. Understand and practice numerical problems discussed in class and lecture slides. Numerical problems can be redesigned by reverse engineering, so pay attention to problem-solving methods. Attend lectures attentively for important short questions.
 
-The *post-mid* content is not relatively tricky as it is mostly based on theory and learning. It is advisable to learn as much content as you can, as mostly theoretical questions are expected. However any numerical/mathematical problem should also be subjected to great importance for final preparation
-
-
-
+*Post-mid:* Content is mostly theoretical. Learn thoroughly as theoretical questions are common. Give importance to any numerical/mathematical problems for final preparation.
 
 ## How to Use
 
-Click the specific file you wish to acquire, and then navigate to the "Download Raw File" button to have it's PDF downloaded in your system.
+Click the specific file you wish to download, then navigate to the "Download Raw File" button to download the PDF.
 
-Feel free to explore, study, and utilize these notes to enhance your understanding and performance in your first semester.
+Explore, study, and utilize these notes to enhance your understanding and performance in your first semester.
 
 ## Contributing
 
-Contributions are highly welcome! If you have additional notes, corrections, or suggestions, please create a pull request or open an issue. Let's make this repository a valuable resource for everyone!
+Contributions are welcome! For additional notes, corrections, or suggestions, please create a pull request or open an issue. Let's make this repository a valuable resource for everyone!
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out to me at my email:
-harris.giki@gmail.com
+For questions or assistance, reach out at [harris.giki@gmail.com](mailto:harris.giki@gmail.com)
