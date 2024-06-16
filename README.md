@@ -44,6 +44,7 @@ PH101 is a 3-credit course focused on applied physics, with an additional 1 cred
 For the lab component, pay close attention to the procedures you follow each week, as both your midterm and final exams will require you to replicate these steps to achieve accurate results. Each lab task will be conducted in a single 3-hour session weekly. To prepare, you can request additional hands-on practice a week before your exams by seeking permission from your lab instructor. Additionally, use the provided links to review and reinforce all the concepts learned throughout the semester.
 
 LINK 1: https://youtube.com/playlist?list=PLTxewzRdoEcgR_fEYqevcSaqeM5mv_ayh&si=tUc0I6tQ89aFohb0 (*pre mid content*)
+
 LINK 2: https://youtube.com/playlist?list=PLtyY_rbv5syVS2BxhMOdonceydCwddYgh&si=sQ2XFPFTYvs9EkTr (*post mid content*)
 
 ## How to Use
