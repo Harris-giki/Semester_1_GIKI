@@ -4,7 +4,7 @@ Welcome to the Semester One Notes repository! This repository provides comprehen
 
 Note: This repository addresses only courses with a higher difficulty level.
 
-## Repository Structure
+## Repository Structure and Instructions
 
 The repository is organized by subjects and topics covered during the first semester. Each subject contains detailed notes, example problems, and additional resources.
 
@@ -47,7 +47,7 @@ LINK 1: https://youtube.com/playlist?list=PLTxewzRdoEcgR_fEYqevcSaqeM5mv_ayh&si=
 
 LINK 2: https://youtube.com/playlist?list=PLtyY_rbv5syVS2BxhMOdonceydCwddYgh&si=sQ2XFPFTYvs9EkTr (*post mid content*)
 
-## How to Use
+## How to Use the Repository
 
 Click the specific file you wish to download, then navigate to the "Download Raw File" button to download the PDF.
 
