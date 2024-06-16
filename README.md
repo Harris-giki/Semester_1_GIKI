@@ -33,6 +33,19 @@ Instructions:
 
 *Post-mid:* Content is mostly theoretical. Learn thoroughly as theoretical questions are common. Give importance to any numerical/mathematical problems for final preparation.
 
+
+**Applied Physics - PH 101**
+  - **Applied Chemistry and Environment (4 Credit Hours)**
+
+Instructions: 
+
+PH101 is a 3-credit course focused on applied physics, with an additional 1 credit hour for the lab component. A-level students, with their strong background in physics problem-solving, will find this course manageable. However, FSC students may need to dedicate extra time and effort to improve their numerical problem-solving skills. Consistent practice is essential. Therefore, it is highly recommended to solve as many problems as possible and seek assistance from your instructor whenever needed.
+
+For the lab component, pay close attention to the procedures you follow each week, as both your midterm and final exams will require you to replicate these steps to achieve accurate results. Each lab task will be conducted in a single 3-hour session weekly. To prepare, you can request additional hands-on practice a week before your exams by seeking permission from your lab instructor. Additionally, use the provided links to review and reinforce all the concepts learned throughout the semester.
+
+LINK 1: https://youtube.com/playlist?list=PLTxewzRdoEcgR_fEYqevcSaqeM5mv_ayh&si=tUc0I6tQ89aFohb0 (*pre mid content*)
+LINK 2: https://youtube.com/playlist?list=PLtyY_rbv5syVS2BxhMOdonceydCwddYgh&si=sQ2XFPFTYvs9EkTr (*post mid content*)
+
 ## How to Use
 
 Click the specific file you wish to download, then navigate to the "Download Raw File" button to download the PDF.
